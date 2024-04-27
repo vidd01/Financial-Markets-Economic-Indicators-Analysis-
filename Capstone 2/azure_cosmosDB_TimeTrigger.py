@@ -9,8 +9,7 @@ from azure.cosmos import CosmosClient, exceptions
 
 #connection variables
 cosmos_url = 'https://capstonesosmosstorage.documents.azure.com:443/'
-cosmos_key = '6nWf2nyesaeRndaId1iR4QGkFqzLxj72moSOGBxSM7GqVRWgT6qteISZMUeGYgb7eYpm6aLs6XhzACDbSXeLFg=='
-
+cosmos_key = ##'Enter your key'##
 #macro economic series - FRED - variables
 #Canada
 canada_gdp = 'NGDPRXDCCAA'
